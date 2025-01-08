@@ -2,7 +2,7 @@
 This project demonstrates incorporating ci/cd with appium
 
 
-appium &>/dev/null &
+<!-- appium &>/dev/null & -->
 
 we can run the android tests in the github runner itself and it can save a lot of money
 
@@ -12,4 +12,4 @@ we can run the android tests in the github runner itself and it can save a lot o
 4. download appium
 5. run appium
 6. start emulator
-7. run the project 
+7. run the project
